@@ -14,4 +14,6 @@ A pesar de haber ido acompañado de la mano con los materiales del curso, realme
 
 Me encanto el apartado de crear los snippets para los Media Queries y hacer que el sitio sea _Responsive_ ya que te ahorra escribir mucho codigo. De igual manera los Mixins.
 
-El primer contacto con la consola de Gulp fue con este proyecto.
+Una vez finalizado el proyecto realice un deploy en Netlify ya que me parece que maneja una interfaz mas amigable (por asi decirlo) a la hora de subir los proyectos.
+
+Como paso final cree este repositorio en GitHub e inicialice un repositorio local en mi carpeta, los enlace con `git remote add ...` , `git fetch` y `git pull` y finalmente realice mi deploy con `git push` 
